@@ -1,0 +1,18 @@
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.exe.config
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\bin\Debug\ExerciciosPropostosUdemy.exe.config
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\bin\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\bin\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\EstruturaCondicional.csprojAssemblyReference.cache

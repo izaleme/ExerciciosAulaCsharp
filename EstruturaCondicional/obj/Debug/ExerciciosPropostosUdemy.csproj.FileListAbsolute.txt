@@ -1,0 +1,13 @@
+C:\Users\izabela\Documents\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.exe.config
+C:\Users\izabela\Documents\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.csproj.CoreCompileInputs.cache
+C:\Users\izabela\Documents\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.exe.config
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\bin\Debug\ExerciciosPropostosUdemy.pdb
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.csprojAssemblyReference.cache
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.csproj.CoreCompileInputs.cache
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.exe
+C:\Users\izabela\Documents\Ash\Curso udemy\Projetos\ExerciciosPropostosUdemy\ExerciciosPropostosUdemy\obj\Debug\ExerciciosPropostosUdemy.pdb

@@ -1,0 +1,6 @@
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaWhile\bin\Debug\EstruturaWhile.exe.config
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaWhile\bin\Debug\EstruturaWhile.exe
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaWhile\bin\Debug\EstruturaWhile.pdb
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaWhile\obj\Debug\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaWhile\obj\Debug\EstruturaWhile.exe
+C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaWhile\obj\Debug\EstruturaWhile.pdb
