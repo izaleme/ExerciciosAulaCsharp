@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.33026.149
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01EstruturaCondicional", "EstruturaCondicional\01EstruturaCondicional.csproj", "{AD688A92-9DA1-4C22-ADCC-9B67CEFF622A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01EstruturaCondicional", "01EstruturaCondicional\01EstruturaCondicional.csproj", "{AD688A92-9DA1-4C22-ADCC-9B67CEFF622A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02EstruturaSequencial", "EstruturaSequencial\02EstruturaSequencial.csproj", "{CF9EE628-FDD0-4E56-BC8A-F96A0492F33E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02EstruturaSequencial", "02EstruturaSequencial\02EstruturaSequencial.csproj", "{CF9EE628-FDD0-4E56-BC8A-F96A0492F33E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EstruturaWhile", "EstruturaWhile\03EstruturaWhile.csproj", "{77E96D41-E476-409E-AA5D-F6B584CF0223}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EstruturaWhile", "03EstruturaWhile\03EstruturaWhile.csproj", "{77E96D41-E476-409E-AA5D-F6B584CF0223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04EstruturaFor", "EstruturaFor\04EstruturaFor.csproj", "{A6F05D34-34F2-4882-A07F-BB4FA65D5878}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04EstruturaFor", "04EstruturaFor\04EstruturaFor.csproj", "{A6F05D34-34F2-4882-A07F-BB4FA65D5878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ClasseFuncionario", "..\ExerciciosCsharpOO\ExercicioFuncOO\06ClasseFuncionario.csproj", "{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ClassePessoa", "05ClassePessoa\05ClassePessoa.csproj", "{02395B00-81D6-485E-A2E1-6E16FA4C8221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ClassePessoa", "..\ExerciciosCsharpOO\ExerciciosCsharpOO\05ClassePessoa.csproj", "{02395B00-81D6-485E-A2E1-6E16FA4C8221}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ClasseFuncionario", "06ClasseFuncionario\06ClasseFuncionario.csproj", "{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +37,14 @@ Global
 		{A6F05D34-34F2-4882-A07F-BB4FA65D5878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F05D34-34F2-4882-A07F-BB4FA65D5878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F05D34-34F2-4882-A07F-BB4FA65D5878}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

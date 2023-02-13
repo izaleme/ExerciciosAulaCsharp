@@ -1,7 +1,0 @@
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\bin\Debug\ExerciciosPropostosUdemy.exe.config
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\bin\Debug\ExerciciosPropostosUdemy.exe
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\bin\Debug\ExerciciosPropostosUdemy.pdb
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\01EstruturaCondicional.csproj.CoreCompileInputs.cache
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\ExerciciosPropostosUdemy.exe
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\ExerciciosPropostosUdemy.pdb
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaCondicional\obj\Debug\01EstruturaCondicional.csprojAssemblyReference.cache

@@ -1,8 +1,0 @@
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\ConsoleApp1\obj\Debug\EstruturaSequencial.csprojAssemblyReference.cache
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\ConsoleApp1\obj\Debug\EstruturaSequencial.csproj.CoreCompileInputs.cache
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaSequencial\obj\Debug\EstruturaSequencial.csproj.CoreCompileInputs.cache
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaSequencial\bin\Debug\ConsoleApp1.exe.config
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaSequencial\bin\Debug\ConsoleApp1.exe
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaSequencial\bin\Debug\ConsoleApp1.pdb
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaSequencial\obj\Debug\ConsoleApp1.exe
-C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos\ExerciciosCsharp\EstruturaSequencial\obj\Debug\ConsoleApp1.pdb
