@@ -41,7 +41,6 @@
 - URI 1157
 - URI 1143
 
-<p>*</p>
 #
 
 **05 - ClassePessoa**
