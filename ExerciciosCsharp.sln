@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EstruturaWhile", "Estrutu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04EstruturaFor", "EstruturaFor\04EstruturaFor.csproj", "{A6F05D34-34F2-4882-A07F-BB4FA65D5878}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ClasseFuncionario", "..\ExerciciosCsharpOO\ExercicioFuncOO\06ClasseFuncionario.csproj", "{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ClassePessoa", "..\ExerciciosCsharpOO\ExerciciosCsharpOO\05ClassePessoa.csproj", "{02395B00-81D6-485E-A2E1-6E16FA4C8221}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A6F05D34-34F2-4882-A07F-BB4FA65D5878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F05D34-34F2-4882-A07F-BB4FA65D5878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F05D34-34F2-4882-A07F-BB4FA65D5878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02395B00-81D6-485E-A2E1-6E16FA4C8221}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
