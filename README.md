@@ -53,7 +53,12 @@
 
 #
 
-**07 - Employee List**
-<p>Proposta: Fazer um programa que cadastra e aumenta o salario de funcionários utilizando List<>.</p>
+**07 - Calculadora**
+<p>Proposta: Funcionamento de uma calculadora utilizando modificadores de parâmetros params, ref e out.</p>
+
+#
+
+**08 - Listas**
+<p>Proposta: Funções de uma list<></p>
 
 #
