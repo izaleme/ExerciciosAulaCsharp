@@ -9,7 +9,7 @@ namespace EstruturaWhile
     class Program
     {
 
-        /* // EXERCICIO 1 - URI 1114
+        // EXERCICIO 1 - URI 1114
 
         static void Main(string[] args)
         {
@@ -22,7 +22,7 @@ namespace EstruturaWhile
             }
 
             Console.WriteLine("Acesso Permitido");
-        } */
+        }
 
 
         /* // EXERCICIO 2 - URI 1115

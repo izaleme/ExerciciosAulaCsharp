@@ -9,7 +9,7 @@ namespace EstruturaFor
     class Program
     {
 
-        /* // EXERCÍCIO 1 - URI 1067
+        // EXERCÍCIO 1 - URI 1067
 
         static void Main(string[] args)
         {
@@ -23,7 +23,7 @@ namespace EstruturaFor
                 }
             }
 
-        } */
+        }
 
 
         /* // EXERCÍCIO 2 - URI 1072
