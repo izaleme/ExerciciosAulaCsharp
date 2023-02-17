@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{59C4A4C1-6984-4855-9632-03380CCC40E6}</ProjectGuid>
+    <ProjectGuid>{98BF9289-8BF5-4818-969C-9CAC99B1B675}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07EmployeeList</RootNamespace>
-    <AssemblyName>07EmployeeList</AssemblyName>
+    <RootNamespace>_07Calculadora</RootNamespace>
+    <AssemblyName>07Calculadora</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
+    <Compile Include="Calculadora.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
