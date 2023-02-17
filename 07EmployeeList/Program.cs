@@ -8,61 +8,46 @@ namespace _07EmployeeList
     {
         static void Main(string[] args)
         {
-            int intIdEmployee = 0;
-            string strNameEmployee = string.Empty;
-            double doSalaryEmployee = 0.0;
-            double doPercentage = 0.0;
-
             List<Employee> list = new List<Employee>();
 
             Console.WriteLine("++++ Cadastro de Funcionários ++++\n");
-            
+
             Console.Write("How many employees will be registred? ");
             int intRecords = int.Parse(Console.ReadLine());
 
-            for(int i = 1; i <= intRecords; i++)
+            for (int i = 1; i <= intRecords; i++)
             {
-                ClearVar();
-
-                //
                 Console.WriteLine("\nEmployee #" + i);
                 Console.Write("Id: ");
-                intIdEmployee = int.Parse(Console.ReadLine());
+                int intIdEmployee = int.Parse(Console.ReadLine());
                 Console.Write("Name: ");
-                strNameEmployee = Console.ReadLine();
+                string strNameEmployee = Console.ReadLine();
                 Console.Write("Salary: ");
-                doSalaryEmployee = double.Parse(Console.ReadLine());
+                double doSalaryEmployee = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                // 
-                Console.Write("\nEnter the employee id that will have salary increase: ");
-                int searchId = int.Parse(Console.ReadLine());
+                list.Add(new Employee(intIdEmployee, strNameEmployee, doSalaryEmployee));
+            }
 
-                Employee emp = list.Find(x => x.Id == searchId);
+            Console.Write("\nEnter the employee id that will have salary increase: ");
+            int searchId = int.Parse(Console.ReadLine());
 
-                if (emp != null)
-                {
-                    Console.Write("Enter the percentage: ");
-                    doPercentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                    emp.IncreaseSalary(doPercentage);
-                }
-                else
-                {
-                    Console.WriteLine("This id does not exist!");
-                }
+            Employee emp = list.Find(x => x.Id == searchId);
 
-                //
+            if (emp != null)
+            {
+                Console.Write("Enter the percentage: ");
+                double doPercentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                emp.IncreaseSalary(doPercentage);
+
                 Console.WriteLine("\nUpdated list of Employees:");
                 foreach (Employee obj in list)
                     Console.WriteLine(obj);
             }
-
-            void ClearVar()
+            else
             {
-                intIdEmployee = 0;
-                strNameEmployee = string.Empty;
-                doSalaryEmployee = 0.0;
-                doPercentage = 0.0;
+                Console.WriteLine("This id does not exist!");
             }
+
         }
     }
 }
