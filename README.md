@@ -46,5 +46,14 @@
 **05 - ClassePessoa**
 <p>Proposta: Fazer um programa para ler os dados de duas pessoas, depois mostrar o nome da pessoa mais velha</p>
 
+#
+
 **06 - ClasseFuncionario**
 <p>Proposta: Fazer um programa para ler nome e salário de dois funcionários. Depois, mostrar o salário médio dos funcionários</p>
+
+#
+
+**07 - Employee List**
+<p>Proposta: Fazer um programa que cadastra e aumenta o salario de funcionários utilizando List<>.</p>
+
+#
