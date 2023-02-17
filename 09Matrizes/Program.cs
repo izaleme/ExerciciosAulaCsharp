@@ -17,11 +17,11 @@ namespace _09Matrizes
             Console.WriteLine(mat.GetLength(0));    // Pega a primeira dimensão da matriz (no caso, 2)
             Console.WriteLine(mat.GetLength(1));    // Pega a segunda dimensão da matriz (no caso, 3) */
 
-            Console.WriteLine("+++ Criação de Matrizes +++");
-
+            Console.Write("Qual a ordem da matriz? ");
             int n = int.Parse(Console.ReadLine());
             int[,] mat = new int[n, n];
 
+            Console.WriteLine("\nMonte a matriz:");
             for (int i = 0; i < n; i++)   // para percorrer linhas
             {
                 string[] values = Console.ReadLine().Split(' ');
@@ -32,7 +32,7 @@ namespace _09Matrizes
                 }
             }
 
-            Console.Write("Main diagonal:");
+            Console.Write("\nMain diagonal:");
             for(int i = 0; i < n; i++)
             {
                 Console.Write(mat[i,i] + " ");
