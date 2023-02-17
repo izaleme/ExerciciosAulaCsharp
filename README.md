@@ -64,5 +64,6 @@
 #
 
 **09 - Matrizes**
-<p>Proposta:<></p>
-![image](https://user-images.githubusercontent.com/48141487/219688120-ec7ae233-4124-4834-b169-9b1eeb71bd75.png)
+<p>Proposta: Fazer um programa para ler um número inteiro N e uma matriz de ordem N contendo números inteiros. Em seguida, mostrar a diagonal principal e a quantidade de valores negativos da matriz.</p>
+
+#
