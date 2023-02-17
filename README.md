@@ -62,3 +62,7 @@
 <p>Proposta: Funções de uma list<></p>
 
 #
+
+**09 - Matrizes**
+<p>Proposta:<></p>
+![image](https://user-images.githubusercontent.com/48141487/219688120-ec7ae233-4124-4834-b169-9b1eeb71bd75.png)
