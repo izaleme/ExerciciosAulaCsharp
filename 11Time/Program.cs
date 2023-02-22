@@ -9,6 +9,8 @@ namespace _11Time
         {
 
             // NO TIME IRMÃO
+            // DateTime representa um instante
+            // TimeSpan representa uma duração na forma de ticks (100 nanosegundos)
 
             DateTime d1 = new DateTime(2023, 02, 22);
             DateTime d2 = new DateTime(2023, 02, 22, 20, 45, 3);
@@ -26,6 +28,13 @@ namespace _11Time
             DateTime d11 = DateTime.ParseExact("2000-03-18", "yyyy-MM-dd", CultureInfo.InvariantCulture);
             DateTime d12 = DateTime.ParseExact("18/03/2000 14:05:58", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
 
+            TimeSpan t1 = new TimeSpan();
+            TimeSpan t2 = new TimeSpan(900000000L);
+            TimeSpan t3 = new TimeSpan(0, 1, 30);
+            TimeSpan t4 = new TimeSpan(1, 2, 11, 21);
+            TimeSpan t5 = new TimeSpan(1, 2, 11, 21, 321);
+            //TimeSpan t6 = new TimeSpan.FromDays(1.5);         => TimeSpan.From não está sendo reconhecido pelo VS
+
             Console.WriteLine(d1);
             Console.WriteLine(d2);
             Console.WriteLine(d3);
@@ -38,6 +47,15 @@ namespace _11Time
             Console.WriteLine(d10);
             Console.WriteLine(d11);
             Console.WriteLine(d12);
+
+            Console.WriteLine();
+
+            Console.WriteLine(t1);
+            Console.WriteLine(t2);
+            Console.WriteLine(t3);
+            Console.WriteLine(t3.Ticks);
+            Console.WriteLine(t4);
+            Console.WriteLine(t5);
         }
     }
 }
