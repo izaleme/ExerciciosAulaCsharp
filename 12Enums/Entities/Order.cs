@@ -1,7 +1,7 @@
 ﻿using System;
-using _12Enums.Entities.Enums;
+using Course12Enums.Entities.Enums;
 
-namespace _12Enums.Entities
+namespace Course12Enums.Entities
 {
     class Order
     {

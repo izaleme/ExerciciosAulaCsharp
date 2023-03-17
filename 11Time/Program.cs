@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace _11Time
+namespace Course11Time
 {
     class Program
     {

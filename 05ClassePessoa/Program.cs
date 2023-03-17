@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace ExerciciosCsharpOO
+namespace Course05ClassePessoa
 {
     class Program
     {

@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Course05ClassePessoa
+namespace Course13Enums
 {
-    class Pessoa
+    class Program
     {
-
-        public string Nome = string.Empty;
-        public int Idade = 0;
-
+        static void Main(string[] args)
+        {
+        }
     }
 }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _10StringFunctions
+namespace Course10StringFunctions
 {
     class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _09Matrizes
+namespace Course09Matrizes
 {
     class Program
     {

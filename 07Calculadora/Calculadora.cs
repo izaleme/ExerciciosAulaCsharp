@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _07Calculadora
+namespace Course07Calculadora
 {
     class Calculadora
     {

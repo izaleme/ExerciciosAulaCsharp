@@ -1,8 +1,8 @@
 ﻿using System;
-using _12Enums.Entities;
-using _12Enums.Entities.Enums;
+using Course12Enums.Entities;
+using Course12Enums.Entities.Enums;
 
-namespace _12Enums
+namespace Course12Enums
 {
     class Program
     {
@@ -18,11 +18,11 @@ namespace _12Enums
             string txt = OrderStatus.PendingPayment.ToString(); // Converte o enumerador para texto
 
             //OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
-            OrderStatus os = (OrderStatus)Enum.Parse(typeof(OrderStatus), value: "Delivered");  // Converte o texto para enumerador
+            OrderStatus os = (OrderStatus)Enum.Parse(typeof(OrderStatus), "Delivered");     // Converte o texto para enumerador
 
             Console.WriteLine(order);
-            Console.WriteLine(os);
             Console.WriteLine(txt);
+            Console.WriteLine(os);
         }
     }
 }

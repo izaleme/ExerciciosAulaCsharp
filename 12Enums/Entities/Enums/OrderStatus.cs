@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _12Enums.Entities.Enums
+namespace Course12Enums.Entities.Enums
 {
     enum OrderStatus : int
     {
