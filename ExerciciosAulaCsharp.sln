@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Time", "11Time\11Time.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Enums", "12Enums\12Enums.csproj", "{6CF3A02A-B3B2-450E-B5A2-F216DA9443B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Enums", "Course13Enums\13Enums.csproj", "{AFC77E16-077A-483B-B070-545B0642755E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13EnumsExercise", "Course13Enums\13EnumsExercise.csproj", "{AFC77E16-077A-483B-B070-545B0642755E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
