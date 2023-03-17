@@ -3,33 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.33026.149
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course01EstruturaCondicional", "01EstruturaCondicional\Course01EstruturaCondicional.csproj", "{AD688A92-9DA1-4C22-ADCC-9B67CEFF622A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01EstruturaCondicional", "01EstruturaCondicional\01EstruturaCondicional.csproj", "{AD688A92-9DA1-4C22-ADCC-9B67CEFF622A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course02EstruturaSequencial", "02EstruturaSequencial\Course02EstruturaSequencial.csproj", "{CF9EE628-FDD0-4E56-BC8A-F96A0492F33E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02EstruturaSequencial", "02EstruturaSequencial\02EstruturaSequencial.csproj", "{CF9EE628-FDD0-4E56-BC8A-F96A0492F33E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course03EstruturaWhile", "03EstruturaWhile\Course03EstruturaWhile.csproj", "{77E96D41-E476-409E-AA5D-F6B584CF0223}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EstruturaWhile", "03EstruturaWhile\03EstruturaWhile.csproj", "{77E96D41-E476-409E-AA5D-F6B584CF0223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course04EstruturaFor", "04EstruturaFor\Course04EstruturaFor.csproj", "{A6F05D34-34F2-4882-A07F-BB4FA65D5878}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04EstruturaFor", "04EstruturaFor\04EstruturaFor.csproj", "{A6F05D34-34F2-4882-A07F-BB4FA65D5878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course05ClassePessoa", "05ClassePessoa\Course05ClassePessoa.csproj", "{02395B00-81D6-485E-A2E1-6E16FA4C8221}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ClassePessoa", "05ClassePessoa\05ClassePessoa.csproj", "{02395B00-81D6-485E-A2E1-6E16FA4C8221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course06ClasseFuncionario", "06ClasseFuncionario\Course06ClasseFuncionario.csproj", "{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ClasseFuncionario", "06ClasseFuncionario\06ClasseFuncionario.csproj", "{5BFD08CD-1ED6-4853-845A-1A53DB69FEA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course00PrimeirasAulas", "00PrimeirasAulas\Course00PrimeirasAulas.csproj", "{C4AF58CC-930F-4A9F-9D1D-F565F17494E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00PrimeirasAulas", "00PrimeirasAulas\00PrimeirasAulas.csproj", "{C4AF58CC-930F-4A9F-9D1D-F565F17494E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course07Calculadora", "07Calculadora\Course07Calculadora.csproj", "{98BF9289-8BF5-4818-969C-9CAC99B1B675}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Calculadora", "07Calculadora\07Calculadora.csproj", "{98BF9289-8BF5-4818-969C-9CAC99B1B675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course08Listas", "08Listas\Course08Listas.csproj", "{83F0C7B3-7618-4FEB-8ED0-EE1FA01509CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Listas", "08Listas\08Listas.csproj", "{83F0C7B3-7618-4FEB-8ED0-EE1FA01509CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course09Matrizes", "09Matrizes\Course09Matrizes.csproj", "{FEFA92E4-BF98-4898-8F0A-4C08BF38A8B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09Matrizes", "09Matrizes\09Matrizes.csproj", "{FEFA92E4-BF98-4898-8F0A-4C08BF38A8B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course10StringFunctions", "10StringFunctions\Course10StringFunctions.csproj", "{8472C0C2-F2D7-4229-AA0E-DBBB0CF8AB03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10StringFunctions", "10StringFunctions\10StringFunctions.csproj", "{8472C0C2-F2D7-4229-AA0E-DBBB0CF8AB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course11Time", "11Time\Course11Time.csproj", "{357B0CA9-C280-495E-98DB-4E737FA159DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Time", "11Time\11Time.csproj", "{357B0CA9-C280-495E-98DB-4E737FA159DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course12Enums", "12Enums\Course12Enums.csproj", "{6CF3A02A-B3B2-450E-B5A2-F216DA9443B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Enums", "12Enums\12Enums.csproj", "{6CF3A02A-B3B2-450E-B5A2-F216DA9443B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course13Enums", "Course13Enums\Course13Enums.csproj", "{AFC77E16-077A-483B-B070-545B0642755E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Enums", "Course13Enums\13Enums.csproj", "{AFC77E16-077A-483B-B070-545B0642755E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
