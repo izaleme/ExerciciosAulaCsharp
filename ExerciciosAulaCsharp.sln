@@ -31,8 +31,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Enums", "12Enums\12Enums.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13EnumsExercise", "13Enums\13EnumsExercise.csproj", "{AFC77E16-077A-483B-B070-545B0642755E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EDEB54CF-50D1-43A7-9A44-8D2B45275CB8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14Heranca", "14Heranca\14Heranca.csproj", "{5CEF0393-C098-455E-A330-0D7E3F0D7361}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15Polimorfismo", "15Polimorfismo\15Polimorfismo.csproj", "{9F35B2CC-F8E7-434D-8CD9-5370465A7C0D}"
