@@ -33,8 +33,8 @@ namespace Course16Streams
 
             #region StreamWriter
 
-            string sourcePath = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\file1.txt"; // Origem
-            string targetPath = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\file2.txt"; // Destino
+            string sourcePath = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\temp_folders\file1.txt"; // Origem
+            string targetPath = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\temp_folders\file2.txt"; // Destino
 
             try
             {
