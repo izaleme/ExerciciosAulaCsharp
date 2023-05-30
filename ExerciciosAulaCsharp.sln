@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15Polimorfismo", "15Polimor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16Streams", "16Streams\16Streams.csproj", "{A2A5EA97-028D-429C-A8CA-C68E3279088C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17DirectoryAndPath", "17DirectoryAndPath\17DirectoryAndPath.csproj", "{24A716CD-AD17-4892-81BA-2D67BABE0E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A2A5EA97-028D-429C-A8CA-C68E3279088C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A5EA97-028D-429C-A8CA-C68E3279088C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A5EA97-028D-429C-A8CA-C68E3279088C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A716CD-AD17-4892-81BA-2D67BABE0E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A716CD-AD17-4892-81BA-2D67BABE0E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A716CD-AD17-4892-81BA-2D67BABE0E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A716CD-AD17-4892-81BA-2D67BABE0E67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
