@@ -10,7 +10,7 @@ namespace Course18Interfaces
         static void Main(string[] args)
         {
             // Enter rental data
-            Console.WriteLine("** Enter rental data **");
+            Console.WriteLine("** Enter rental data **");   // Dados do aluguel de carro
             Console.Write("Car model: ");
             string model = Console.ReadLine();
             Console.Write("Pickup (dd/MM/yyyy hh:mm): ");
@@ -25,12 +25,12 @@ namespace Course18Interfaces
             double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));     // instanciando o objeto
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);    // gera invoice associado ao aluguel
 
             Console.WriteLine("\nINVOICE");
-            Console.WriteLine(carRental.Invoice);            
+            Console.WriteLine(carRental.Invoice);
         }
     }
 }
