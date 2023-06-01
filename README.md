@@ -10,7 +10,6 @@
 #
 
 ### Os enunciados dos exercícios dos projetos do 01 ao 04 podem ser encontrados no URI
-<p>*</p>
 
 **01 - EstruturaCondicional**
 - URI 1044
@@ -65,5 +64,40 @@
 
 **09 - Matrizes**
 <p>Proposta: Fazer um programa para ler um número inteiro N e uma matriz de ordem N contendo números inteiros. Em seguida, mostrar a diagonal principal e a quantidade de valores negativos da matriz.</p>
+
+#
+
+**10 - String Functions**
+<p>Proposta: Operações com strings, que vão da edição de uma string até a verificação de uma string vazia/nula.</p>
+
+#
+
+**11 - Time**
+<p>Proposta: Trabalhando com tempo, utilizando TimeSpan, DateTime e DateTimeKind.</p>
+
+#
+
+**12 e 13 - Enums**
+<p>Proposta: Trabalhando com enumeradores.</p>
+
+#
+
+**14 - Herança**
+<p>Proposta: Utilizando upcasting e downcasting.</p>
+
+#
+
+**15 - Polimorfismo**
+<p>Proposta: Utilizando práticas de polimorfismo.</p>
+
+#
+
+**16 - Streams**
+<p>Proposta: Usando FileStream, StreamReader, StreamWriter e using {} para trabalhar com arquivos binários.</p>
+
+#
+
+**17 - Directory and Path**
+<p>Proposta: Usando Directory, DirectoryInfo e Path para trabalhar com pastas e arquivos.</p>
 
 #
