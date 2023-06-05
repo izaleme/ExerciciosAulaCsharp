@@ -101,3 +101,13 @@
 <p>Proposta: Usando Directory, DirectoryInfo e Path para trabalhar com pastas e arquivos.</p>
 
 #
+
+**18 - Interfaces**
+<p>Proposta: Solução de um problema utilizando interfaces.</p>
+
+#
+
+**19 - Inheritance and Interface**
+<p>Proposta: Trabalhando com herança e interfaces.</p>
+
+#
