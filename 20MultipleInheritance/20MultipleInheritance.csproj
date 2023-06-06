@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Devices\ComboDevice.cs" />
     <Compile Include="Devices\Device.cs" />
+    <Compile Include="Devices\IPrinter.cs" />
+    <Compile Include="Devices\IScanner.cs" />
     <Compile Include="Devices\Printer.cs" />
     <Compile Include="Devices\Scanner.cs" />
     <Compile Include="Program.cs" />
