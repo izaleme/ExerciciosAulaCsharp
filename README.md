@@ -111,3 +111,8 @@
 <p>Proposta: Trabalhando com herança e interfaces.</p>
 
 #
+
+**20 - Multiple Inheritance**
+<p>Proposta: Resolvendo o problema do diamante (ambiguidade causada pela existência do mesmo método em mais de uma superclasse) com interface.</p>
+
+#
