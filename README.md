@@ -116,3 +116,10 @@
 <p>Proposta: Resolvendo o problema do diamante (ambiguidade causada pela existência do mesmo método em mais de uma superclasse) com interface.</p>
 
 #
+
+**21 - Generics**
+<p>Proposta:</p>
+![img21](https://github.com/izaleme/ExerciciosAulaCsharp/assets/48141487/8af8d2f7-3ff5-4aa6-a7a4-46d54ec55889)
+
+#
+
