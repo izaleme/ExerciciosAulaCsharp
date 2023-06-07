@@ -2,12 +2,12 @@
 
 namespace Generics
 {
-    class PrintService
+    class PrintService<T>   // Passando T como valor genérico
     {
-        private object[] _values = new object[10];
+        private T[] _values = new T[10];
         private int _count = 0;
 
-        public void AddValue(object value)
+        public void AddValue(T value)
         {
             if (_count == 10)   // Significa que a variável já está cheia
             {
@@ -17,7 +17,7 @@ namespace Generics
             _count++;
         }
 
-        public object First()
+        public T First()
         {
             if (_count == 0)   // Significa que a variável está vazia
             {
