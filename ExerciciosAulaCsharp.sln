@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21Generics", "21Generics\21
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22ConjuntosSet", "22ConjuntosSet\22ConjuntosSet.csproj", "{3E11D9A7-A731-46FE-ADCD-287B1A3A9C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23Dictionary", "23Dictionary\23Dictionary.csproj", "{E9AAD1A5-6D6E-40F1-B18F-53D553B32F63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{3E11D9A7-A731-46FE-ADCD-287B1A3A9C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E11D9A7-A731-46FE-ADCD-287B1A3A9C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E11D9A7-A731-46FE-ADCD-287B1A3A9C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AAD1A5-6D6E-40F1-B18F-53D553B32F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AAD1A5-6D6E-40F1-B18F-53D553B32F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AAD1A5-6D6E-40F1-B18F-53D553B32F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AAD1A5-6D6E-40F1-B18F-53D553B32F63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
