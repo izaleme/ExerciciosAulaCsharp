@@ -136,7 +136,7 @@
 
 **24 - Extensions**
 <p>Proposta:</p>
-![problema1](https://github.com/izaleme/ExerciciosAulaCsharp/assets/48141487/6ff89735-9b68-44a7-932c-394320e0fefd)
+![problema1](https://github.com/izaleme/ExerciciosAulaCsharp/assets/48141487/6ff89735-9b68-44a7-932c-394320e0fefd)<br/>
 ![problema2](https://github.com/izaleme/ExerciciosAulaCsharp/assets/48141487/d279a5ad-c00b-45de-b42b-2701b87ebb12)
 
 #
