@@ -1,8 +1,9 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
-namespace Extensions.Extensions
+namespace System
 {
+    // Como DateTime é do namespace System, podemos colocar o nosso DateTimeExtensions no mesmo namespace e economizar um using no Program.cs
+
     static class DateTimeExtensions
     {
         public static string ElapsedTime(this DateTime thisObj)
