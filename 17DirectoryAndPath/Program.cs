@@ -9,7 +9,7 @@ namespace Course17DirectoryAndPath
         {
             #region Directory and DirectoryInfo
 
-            //string path = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\temp_folders";
+            //string path = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\ExerciciosAulaCsharp\temp_folders";
 
             //try
             //{
@@ -43,7 +43,7 @@ namespace Course17DirectoryAndPath
 
             #region Path
 
-            string path = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\temp_folders\file1.txt";
+            string path = @"C:\Users\izabela\Documents\Ash\Curso Csharp Udemy\Projetos Estudo\ExerciciosAulaCsharp\temp_folders\file1.txt";
 
             Console.WriteLine("DirectorySeparatorChar: " + Path.DirectorySeparatorChar);
             Console.WriteLine("PathSeparator: " + Path.PathSeparator);
