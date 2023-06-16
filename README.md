@@ -124,3 +124,12 @@
 
 #
 
+**22 - Conjuntos Set**
+<p>Proposta: Trabalhando com HashSet e SortedSet, com operações como union, intersection e difference.</p>
+
+#
+
+**23 - Dictionary**
+<p>Proposta: Trabalhando com dictionary e usando operações básicas.</p>
+
+#
