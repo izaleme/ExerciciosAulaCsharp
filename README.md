@@ -140,3 +140,8 @@
 ![problema2](https://github.com/izaleme/ExerciciosAulaCsharp/assets/48141487/d279a5ad-c00b-45de-b42b-2701b87ebb12)
 
 #
+
+**25 - Predicate**
+<p>Proposta: Remover da lista somente aqueles cujo preço mínimo seja 100</p>
+
+#
