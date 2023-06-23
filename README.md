@@ -145,3 +145,14 @@
 <p>Proposta: Remover da lista somente aqueles cujo preço mínimo seja 100</p>
 
 #
+
+**26 - Acion**
+<p>Proposta: Fazer um programa que, a partir de uma lista de produtos, aumente o preço dos produtos em 10&.</p>
+
+#
+
+**27 - Func**
+<p>Proposta: Fazer um programa que, a partir de uma lista de produtos, gere uma nova lista contendo os nomes dos produtos em caixa alta.</p>
+
+#
+
