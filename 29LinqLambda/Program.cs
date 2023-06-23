@@ -65,7 +65,7 @@ namespace LinqLambda
             var r6 = products.First();      // Pega o primeiro elemento do data source
             Console.WriteLine("First, test 1: " + r6);
 
-            //var r7 = products.Where(p => p.Price > 3000.0).First();       // Não há elementos, portanto vai dar exception
+            //var r7 = products.Where(p => p.Price > 3000.0).First();            // Não há elementos, portanto vai dar exception
             var r7 = products.Where(p => p.Price > 3000.0).FirstOrDefault();     // Pega o primeiro ou trás vazio
             Console.WriteLine("First, test 2: " + r7);
 
@@ -74,7 +74,41 @@ namespace LinqLambda
 
             var r9 = products.Where(p => p.Id == 30).SingleOrDefault();     // Trás apenas um elemento, e se não tiver, trás vazio
             Console.WriteLine("Single or default, test 2: " + r9);
+
             Console.WriteLine();
+
+            var r10 = products.Max(p => p.Price);               // Pega o preço máximo
+            Console.WriteLine("Max price: " + r10);
+
+            var r11 = products.Min(p => p.Price);               // Pega o preço mínimo
+            Console.WriteLine("Min price: " + r11);
+
+            var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);        // Soma os preços da categoria 1
+            Console.WriteLine("Category 1 Sum prices: " + r12);
+
+            var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);        // Soma os preços da categoria 1
+            Console.WriteLine("Category 1 Average prices: " + r13);                         // Pega a média dos preços de categoria 1
+
+            var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty().Average();     // DefaultIfEmpty = se for uma coleção vazia, retorna 0
+            Console.WriteLine("Category  Average prices: " + r14);
+
+            Console.WriteLine();
+
+            //var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate((x, y) => x + y);        // Soma os preços de x e y
+            var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);     // Define 0 como valor inicial pro caso de retornar vazio
+            Console.WriteLine("Category 1 aggregate sum: " + r15);
+
+            var r16 = products.GroupBy(p => p.Category);            // Agrupa os produtos por categoria
+            foreach (IGrouping<Category, Product> group in r16)
+            {
+                Console.WriteLine("Category " + group.Key.Name + ": ");
+                foreach (Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
+
         }
     }
 }
