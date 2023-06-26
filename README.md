@@ -165,3 +165,14 @@
 <p>Proposta: Operações usando LINQ e lambda juntos.</p>
 
 #
+
+**30 - Linq SQL**
+<p>Proposta: Refazendo os exercícios do projeto 29 (LinqLambda) mas usando Linq com notação semelhante à SQL.</p>
+
+#
+
+**31 - Linq Exercise**
+<p>Proposta:</p>
+![image](https://github.com/izaleme/ExerciciosAulaCsharp/assets/48141487/b354c046-1b67-4dcf-94f8-425f630ceb0f)
+
+#
