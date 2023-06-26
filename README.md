@@ -156,3 +156,12 @@
 
 #
 
+**28 - LINQ**
+<p>Proposta: Operações usando LINQ.</p>
+
+#
+
+**29 - LINQ with Lambda**
+<p>Proposta: Operações usando LINQ e lambda juntos.</p>
+
+#
